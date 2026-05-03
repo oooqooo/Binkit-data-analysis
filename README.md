@@ -10,3 +10,20 @@ Key insights:
 * Impact of outlet size and visibility on revenue
 
 This project highlights strong analytical thinking, problem-solving ability, and proficiency in data analysis tools, making it relevant for data analyst roles.
+
+
+                             <---------------------------DATA WORKFLOW PROCESS---------------------------------------->
+
+                             DATA_SET
+                               |
+                               |
+                             PYTHON
+                               |
+                               |
+                            SQL Alchemy
+                               |
+                               |
+                            SQL QUERY
+                               |
+                               |
+                            POWER BI
